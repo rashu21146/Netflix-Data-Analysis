@@ -1,0 +1,30 @@
+📊 Netflix Data Analysis Project Summary - By Devanshu Mahala
+
+🧰 Tools Used:
+- Python
+- Pandas (for data cleaning and manipulation)
+- Seaborn & Matplotlib (for data visualization)
+
+📁 Dataset:
+- netflix_titles.csv (official Kaggle dataset)
+- Contains data on Netflix shows including type, title, director, country, release year, genre, and date added.
+
+🔍 Key Insights:
+1. Netflix has more Movies than TV Shows overall.
+2. The USA, India, and the UK have the most Netflix content.
+3. Netflix added the highest number of titles between 2017–2020.
+4. Most common genres include Drama, International Movies, and Comedies.
+5. Movies dominate in genres like Documentaries and International Movies.
+6. TV Shows dominate in genres like Kids' Shows and Reality TV.
+
+📁 Graphs Created:
+- Movies vs TV Show Distribution
+- Netflix Content Added by Year
+- Top 10 Countries by Content
+- Top 10 Most Common Genres
+- Genre-wise Movie vs TV Show Comparison (Heatmap)
+
+💬 What Makes This Project Real:
+- No notebook used. Built in pure `.py` file using VS Code.
+- All graphs are saved locally.
+- Code structured and written from scratch without copy-pasting.
