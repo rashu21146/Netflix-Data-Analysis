@@ -32,8 +32,9 @@ It uncovers content trends, genre patterns, country-wise distribution, and relea
 ---
 
 ## 👨‍💻 Author
-**Devanshu Mahala**  
-B.Tech AI, BKBIET Pilani  
+**Rashu Tyagi**  
+B.Tech CSE, Dr. Ram Manohar Lohia Avadh University
+
 
 
 
